@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/static/v1?label=Overview&message=Allan&logo=GitHub">
 
 <p>
-  I'm a brazilian developer and cyber security enthusiast. 
+  I'm a brazilian software engineering and cyber security enthusiast. 
 </p>
 
 ##### Player on 
