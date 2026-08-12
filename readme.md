@@ -1,15 +1,26 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=allandiegoasilva&show_icons=true&cache_seconds=2300">
+<div align="center">
 
-### Allan's profile
+<pre>
+███████╗███╗   ██╗███╗   ██╗██╗  ██╗██╗██╗
+██╔════╝████╗  ██║████╗  ██║██║ ██╔╝██║██║
+█████╗  ██╔██╗ ██║██╔██╗ ██║█████╔╝ ██║██║
+██╔══╝  ██║╚██╗██║██║╚██╗██║██╔═██╗ ██║██║
+███████╗██║ ╚████║██║ ╚████║██║  ██╗██║██║
+╚══════╝╚═╝  ╚═══╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝╚═╝
+</pre>
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=Allan&logo=GitHub">
+<h3>Allan's Profile</h3>
 
 <p>
-  I'm a brazilian software engineering and cyber security enthusiast. 
+  web // cybersecurity // cloud
 </p>
 
-##### Player on 
-<p float="left">
-<img src="https://img.shields.io/badge/player-Hack%20the%20box-green"/> 
-<img src="https://img.shields.io/badge/player-Try%20hack%20me%20-white"/>
+<p>
+  <a href="https://allandiego.com.br">website</a>
+  &nbsp;|&nbsp;
+  <a href="https://allandiego.com.br/blog">blog</a>
+  &nbsp;|&nbsp;
+  <a href="mailto:contatoallandiego@gmail.com">mail</a>
 </p>
+
+</div>
